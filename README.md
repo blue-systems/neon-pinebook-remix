@@ -5,6 +5,8 @@
 New images are built regularly. See 
 [issue #31](https://github.com/blue-systems/neon-pinebook/issues/31).
 
+[Build documentation](https://community.kde.org/Neon/InstallableImages#Pinebook_Images)
+
 ## Boot process
 
 Documentation for the boot process of pine64 (largely also applies

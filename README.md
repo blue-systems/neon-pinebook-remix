@@ -20,3 +20,5 @@ SD card layout explained on
 
  - [Hardware](http://linux-sunxi.org/A64)
  - [Software](http://wiki.pine64.org/index.php/Pine_A64_Software_Release)
+
+Further information can be found in the [Wiki](https://github.com/blue-systems/neon-pinebook/wiki).
